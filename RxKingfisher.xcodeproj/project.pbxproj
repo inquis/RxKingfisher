@@ -418,7 +418,7 @@
          children = (
          );
          name = "Kingfisher";
-         path = ".build/checkouts/Kingfisher/Sources";
+         path = "Carthage/Checkouts/Kingfisher/Sources";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_160" = {
@@ -483,7 +483,7 @@
             "OBJ_73"
          );
          name = "KingfisherSwiftUI";
-         path = ".build/checkouts/Kingfisher/Sources";
+         path = "Carthage/Checkouts/Kingfisher/Sources";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_170" = {
@@ -506,7 +506,7 @@
             "OBJ_177"
          );
          name = "RxCocoaRuntime";
-         path = ".build/checkouts/RxSwift/Sources/RxCocoaRuntime";
+         path = "Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_173" = {
@@ -591,7 +591,7 @@
             "OBJ_188"
          );
          name = "RxRelay";
-         path = ".build/checkouts/RxSwift/Sources/RxRelay";
+         path = "Carthage/Checkouts/RxSwift/Sources/RxRelay";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_184" = {
@@ -781,7 +781,7 @@
             "OBJ_346"
          );
          name = "RxSwift";
-         path = ".build/checkouts/RxSwift/Sources/RxSwift";
+         path = "Carthage/Checkouts/RxSwift/Sources/RxSwift";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_19" = {
@@ -1729,14 +1729,14 @@
          children = (
          );
          name = "RxTest";
-         path = ".build/checkouts/RxSwift/Sources/RxTest";
+         path = "Carthage/Checkouts/RxSwift/Sources/RxTest";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_348" = {
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/shai.mishali/Work/OSS/RxKingfisher/.build/checkouts/RxSwift/Package.swift";
+         path = "/Users/shai.mishali/Work/OSS/RxKingfisher/Carthage/Checkouts/RxSwift/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_349" = {
@@ -2324,7 +2324,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxCocoa_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "9.0";
@@ -2366,7 +2366,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxCocoa_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "9.0";
@@ -3002,7 +3002,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxCocoaRuntime_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "9.0";
@@ -3045,7 +3045,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxCocoaRuntime_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "9.0";
@@ -3199,7 +3199,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxKingfisher_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "10.0";
@@ -3241,7 +3241,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxKingfisher_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "10.0";
@@ -3453,7 +3453,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxKingfisherTests_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "14.0";
@@ -3493,7 +3493,7 @@
             );
             HEADER_SEARCH_PATHS = (
                "$(inherited)",
-               "$(SRCROOT)/.build/checkouts/RxSwift/Sources/RxCocoaRuntime/include"
+               "$(SRCROOT)/Carthage/Checkouts/RxSwift/Sources/RxCocoaRuntime/include"
             );
             INFOPLIST_FILE = "RxKingfisher.xcodeproj/RxKingfisherTests_Info.plist";
             IPHONEOS_DEPLOYMENT_TARGET = "14.0";
@@ -4671,7 +4671,7 @@
          isa = "PBXFileReference";
          explicitFileType = "sourcecode.swift";
          name = "Package.swift";
-         path = "/Users/shai.mishali/Work/OSS/RxKingfisher/.build/checkouts/Kingfisher/Package.swift";
+         path = "/Users/shai.mishali/Work/OSS/RxKingfisher/Carthage/Checkouts/Kingfisher/Package.swift";
          sourceTree = "<group>";
       };
       "OBJ_760" = {
@@ -4806,7 +4806,7 @@
          children = (
          );
          name = "RxBlocking";
-         path = ".build/checkouts/RxSwift/Sources/RxBlocking";
+         path = "Carthage/Checkouts/RxSwift/Sources/RxBlocking";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_780" = {
@@ -4910,7 +4910,7 @@
             "OBJ_171"
          );
          name = "RxCocoa";
-         path = ".build/checkouts/RxSwift/Sources/RxCocoa";
+         path = "Carthage/Checkouts/RxSwift/Sources/RxCocoa";
          sourceTree = "SOURCE_ROOT";
       };
       "OBJ_8" = {
